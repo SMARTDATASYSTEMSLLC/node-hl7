@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46594606-311b-41f0-a45e-34267b2c7b23" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/encoder.js" afterPath="$PROJECT_DIR$/lib/encoder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/hl7.js" afterPath="$PROJECT_DIR$/lib/hl7.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/parser.js" afterPath="$PROJECT_DIR$/lib/parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/server.js" afterPath="$PROJECT_DIR$/lib/server.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="node-hl7.iws" />
@@ -34,8 +34,18 @@
       <file leaf-file-name="encoder.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/encoder.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.37037" vertical-offset="0" max-vertical-offset="1540">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            <state vertical-scroll-proportion="-12.555555" vertical-offset="25" max-vertical-offset="1540">
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.021212121" vertical-offset="0" max-vertical-offset="660">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -67,8 +77,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.565217" vertical-offset="0" max-vertical-offset="560">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="14" />
+            <state vertical-scroll-proportion="-12.173913" vertical-offset="0" max-vertical-offset="560">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -87,14 +97,13 @@
       <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.2222223" vertical-offset="601" max-vertical-offset="1778">
-              <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
+            <state vertical-scroll-proportion="18.148148" vertical-offset="1218" max-vertical-offset="2268">
+              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#1989#2531#0" expanded="false" />
                 <element signature="e#2571#2671#0" expanded="false" />
                 <element signature="e#2730#3687#0" expanded="false" />
-                <element signature="e#3736#4732#0" expanded="false" />
                 <element signature="e#4770#4893#0" expanded="false" />
                 <element signature="e#5447#5480#0" expanded="false" />
                 <element signature="e#5517#5647#0" expanded="false" />
@@ -115,14 +124,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parser.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="parser.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/parser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.530303" vertical-offset="756" max-vertical-offset="1666">
-              <caret line="79" column="43" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1006" max-vertical-offset="1666">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/fixtures/sample.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="672" max-vertical-offset="2954">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -135,13 +154,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/demo.js" />
         <option value="$PROJECT_DIR$/hl7out.txt" />
         <option value="$PROJECT_DIR$/lib/hl7.js" />
-        <option value="$PROJECT_DIR$/lib/encoder.js" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/lib/server.js" />
         <option value="$PROJECT_DIR$/lib/parser.js" />
+        <option value="$PROJECT_DIR$/lib/encoder.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -333,7 +353,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12779553" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12779553" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39918533" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -371,14 +391,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/fixtures/sample.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2954">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="954">
@@ -424,40 +436,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/encoder.js">
+    <entry file="file://$PROJECT_DIR$/test/fixtures/sample.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.37037" vertical-offset="0" max-vertical-offset="1540">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/hl7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="672" max-vertical-offset="2954">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.565217" vertical-offset="0" max-vertical-offset="560">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="14" />
+        <state vertical-scroll-proportion="-12.173913" vertical-offset="0" max-vertical-offset="560">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.2222223" vertical-offset="601" max-vertical-offset="1778">
-          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
+        <state vertical-scroll-proportion="18.148148" vertical-offset="1218" max-vertical-offset="2268">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#1989#2531#0" expanded="false" />
             <element signature="e#2571#2671#0" expanded="false" />
             <element signature="e#2730#3687#0" expanded="false" />
-            <element signature="e#3736#4732#0" expanded="false" />
             <element signature="e#4770#4893#0" expanded="false" />
             <element signature="e#5447#5480#0" expanded="false" />
             <element signature="e#5517#5647#0" expanded="false" />
@@ -469,11 +472,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/parser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.530303" vertical-offset="756" max-vertical-offset="1666">
-          <caret line="79" column="43" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1006" max-vertical-offset="1666">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/hl7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/encoder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.555555" vertical-offset="25" max-vertical-offset="1540">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021212121" vertical-offset="0" max-vertical-offset="660">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
